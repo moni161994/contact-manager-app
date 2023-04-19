@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "monika",
+      "photo": "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
+      "mobile": "45232",
+      "email": "sushil@synlabs.io",
+      "company": "dfsdc",
+      "title": "rfgdf",
+      "groupId": "",
+      "id": 1
+    },
+    {
+      "name": "Raksha",
+      "photo": "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
+      "mobile": "5634645",
+      "email": "haripib641@keyido.com",
+      "company": "gfff",
+      "title": "fddf",
+      "groupId": "",
+      "id": 2
+    },
+    {
+      "name": "moni",
+      "photo": "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
+      "mobile": "545475476",
+      "email": "bigowi2948@offsala.com",
+      "company": "synergyLabs",
+      "title": "gfjh",
+      "groupId": "",
+      "id": 3
+    }
+  ]
+}
